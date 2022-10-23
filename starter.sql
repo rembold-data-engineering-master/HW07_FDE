@@ -1,0 +1,43 @@
+CREATE TABLE artworks (
+  title TEXT,
+  artist TEXT,
+  constituent_id TEXT,
+  artist_bio TEXT,
+  nationality TEXT,
+  begin_date TEXT,
+  end_date TEXT,
+  gender TEXT,
+  date TEXT,
+  medium TEXT,
+  dimensions TEXT,
+  credit_line TEXT,
+  accession_number TEXT,
+  classification TEXT,
+  department TEXT,
+  date_acquired DATE,
+  cataloged TEXT,
+  object_id INTEGER,
+  url TEXT,
+  thumbnail_url TEXT,
+  circumference_cm DOUBLE PRECISION,
+  depth_cm DOUBLE PRECISION,
+  diameter_cm DOUBLE PRECISION,
+  height_cm DOUBLE PRECISION,
+  length_cm DOUBLE PRECISION,
+  weight_kg DOUBLE PRECISION,
+  width_cm DOUBLE PRECISION,
+  seat_height_cm DOUBLE PRECISION,
+  duration_sec DOUBLE PRECISION
+);
+
+CREATE TABLE artists (
+  constituent_id BIGINT,
+  display_name TEXT,
+  artist_bio TEXT,
+  nationality TEXT,
+  gender TEXT,
+  begin_date INTEGER,
+  end_date INTEGER,
+  wiki_qid TEXT,
+  ulan TEXT
+);
