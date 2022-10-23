@@ -1,3 +1,11 @@
+# Problem 1
+- List of any other students you worked with:
+- About how long did you work on this problem?
+
+
+## Part A
+Here is SQL to create two tables that will nicely import the provided CSV files:
+```sql
 CREATE TABLE artworks (
   title TEXT,
   artist TEXT,
@@ -41,3 +49,51 @@ CREATE TABLE artists (
   wiki_qid TEXT,
   ulan TEXT
 );
+```
+
+Provide your SQL to import the data
+```sql
+
+```
+
+
+## Part B
+SQL to create and populate the desired `artwork_artists` table:
+```sql
+
+```
+
+
+## Part C
+SQL to cleanup duplicates and column types:
+```sql
+
+```
+
+
+## Part D
+SQL to setup constraints and keys
+```sql
+
+```
+
+
+## Part E
+SQL to remove columns of duplicated information from `artworks`:
+```sql
+
+```
+
+
+## Part F
+SQL to `NULL` out missing birth date or death date values:
+```sql
+
+```
+
+
+## Part G
+SQL to create and populate new `date_int` column:
+```sql
+
+```
