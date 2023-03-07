@@ -1,6 +1,6 @@
 # Homework 7
-This repository contains a zip file with both the CSV's containing the data for this week's assignment, as well as starting templates for each of the other problems.
+This repository contains a zip file with both the CSV's containing the data for this week's assignment, as well as containing starting templates for each of the problems.
 
-Don't forget to upload the resulting CSV from Problem 3 back to the repository as well!
+Don't forget to upload the images from Problem 1 back to the repository as well!
 
-Due date: October 27, 2022
+Due date: March 12, 2023
