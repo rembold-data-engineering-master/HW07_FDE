@@ -5,7 +5,7 @@
 
 
 ## Part A
-**Answer:**
+**Answer:** here
 ```sql
 
 ```
@@ -13,7 +13,7 @@
 
 
 ## Part B
-**Answer:**
+**Answer:** here
 ```sql
 
 ```
@@ -21,7 +21,7 @@
 
 
 ## Part C
-**Answer:**
+**Answer:** here
 ```sql
 
 ```
@@ -29,7 +29,7 @@
 
 
 ## Part D
-**Answer:**
+**Answer:** here
 ```sql
 
 ```
