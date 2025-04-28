@@ -85,17 +85,3 @@ SQL to remove columns of duplicated information from `artworks`:
 ```sql
 
 ```
-
-
-## Part F
-SQL to `NULL` out missing birthdate or death date values:
-```sql
-
-```
-
-
-## Part G
-SQL to create and populate new `date_int` column:
-```sql
-
-```
